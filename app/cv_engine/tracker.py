@@ -1,0 +1,3 @@
+"""Заготовка под трекинг (сглаживание, id объектов). Занятость пока в services.occupancy."""
+# class SimpleTracker: ...
+
